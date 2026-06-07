@@ -27,6 +27,10 @@ Sou apaixonado por tecnologia e por como a programação pode resolver problemas
 Sistema web para cálculo automático de notas e situação do aluno. Desenvolvido com HTML, CSS e JavaScript.  
 🔗 *Disponível nos meus repositórios*
 
+📌 **Calculadora de Orçamento**  
+Sistema para calcular valor total de serviços, com cálculo de horas, valor e desconto.  
+🔗 https://23690401.github.io/calculadora-orcamento/
+
 🔹 **🚀 Em breve:** Mais sistemas, sites e automações!
 
 ---
