@@ -31,6 +31,11 @@ Sistema web para cálculo automático de notas e situação do aluno. Desenvolvi
 Sistema para calcular valor total de serviços, com cálculo de horas, valor e desconto.  
 🔗 https://23690401.github.io/calculadora-orcamento/
 
+📌 **Formulário de Agendamento**  
+Sistema completo para cadastro e agendamento, onde os dados enviados chegam diretamente no e-mail cadastrado. Ideal para clínicas, salões, consultórios e profissionais liberais.  
+🔗 https://23690401.github.io/formulario-agendamento/
+
+
 🔹 **🚀 Em breve:** Mais sistemas, sites e automações!
 
 ---
